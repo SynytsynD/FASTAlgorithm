@@ -1,0 +1,3 @@
+D:/Programs/test_task/CMakeFiles/TestTask.dir
+D:/Programs/test_task/CMakeFiles/ALL_BUILD.dir
+D:/Programs/test_task/CMakeFiles/ZERO_CHECK.dir
